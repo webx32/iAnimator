@@ -10,32 +10,43 @@
 http://ianimator.kundy.net/
 
 主界面
+
 <img src=http://www.qianduan.net/wp-content/uploads/2012/12/1.jpg>
 
 特色
 1批量上传图片素材
+
 <img src=http://www.qianduan.net/wp-content/uploads/image/2012/12/025851XuF.jpg>
 
 
 2丰富的属性面板
+
 <img src=http://www.qianduan.net/wp-content/uploads/image/2012/12/025852MAH.jpg>
 
 
 3图层、帧的灵活控制
+
 <img src=http://www.qianduan.net/wp-content/uploads/2012/12/4.jpg>
 
 4可视化图层编辑
+
 <img src=http://www.qianduan.net/wp-content/uploads/2012/12/5.jpg>
 
 5丰富的特效库
+
 <img src=http://www.qianduan.net/wp-content/uploads/image/2012/12/025854mmP.jpg>
 
 6快速预览
+
 <img src=http://www.qianduan.net/wp-content/uploads/2012/12/7.jpg>
 
 7快速集成
+
 <img src=http://www.qianduan.net/wp-content/uploads/image/2012/12/0258558qE.jpg>
+
 <img src=http://www.qianduan.net/wp-content/uploads/image/2012/12/025856tIt.jpg>
+
+
 后期的一些想法
 
 图层将支持父层、子层，以更灵活的管理图层
